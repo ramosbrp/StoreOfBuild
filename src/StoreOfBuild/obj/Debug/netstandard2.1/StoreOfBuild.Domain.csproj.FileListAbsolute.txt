@@ -1,0 +1,4 @@
+C:\dev\UDEMy\app\src\StoreOfBuild\obj\Debug\netstandard2.1\StoreOfBuild.Domain.csprojAssemblyReference.cache
+C:\dev\UDEMy\app\src\StoreOfBuild\obj\Debug\netstandard2.1\StoreOfBuild.Domain.AssemblyInfoInputs.cache
+C:\dev\UDEMy\app\src\StoreOfBuild\obj\Debug\netstandard2.1\StoreOfBuild.Domain.AssemblyInfo.cs
+C:\dev\UDEMy\app\src\StoreOfBuild\obj\Debug\netstandard2.1\StoreOfBuild.Domain.csproj.CoreCompileInputs.cache

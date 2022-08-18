@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26124.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreOfBuild", "StoreOfBuild\StoreOfBuild.csproj", "{0D39F757-A383-49C2-9773-CA6CA5A1972E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreOfBuild.Domain", "StoreOfBuild\StoreOfBuild.Domain.csproj", "{0D39F757-A383-49C2-9773-CA6CA5A1972E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,9 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{0D39F757-A383-49C2-9773-CA6CA5A1972E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -30,5 +27,11 @@ Global
 		{0D39F757-A383-49C2-9773-CA6CA5A1972E}.Release|x64.Build.0 = Release|Any CPU
 		{0D39F757-A383-49C2-9773-CA6CA5A1972E}.Release|x86.ActiveCfg = Release|Any CPU
 		{0D39F757-A383-49C2-9773-CA6CA5A1972E}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {837A9738-6175-41EB-8972-87F2065AF175}
 	EndGlobalSection
 EndGlobal
