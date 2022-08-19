@@ -1,4 +1,9 @@
-C:\dev\UDEMy\app\src\StoreOfBuild\obj\Debug\netstandard2.1\StoreOfBuild.Domain.csprojAssemblyReference.cache
 C:\dev\UDEMy\app\src\StoreOfBuild\obj\Debug\netstandard2.1\StoreOfBuild.Domain.AssemblyInfoInputs.cache
 C:\dev\UDEMy\app\src\StoreOfBuild\obj\Debug\netstandard2.1\StoreOfBuild.Domain.AssemblyInfo.cs
 C:\dev\UDEMy\app\src\StoreOfBuild\obj\Debug\netstandard2.1\StoreOfBuild.Domain.csproj.CoreCompileInputs.cache
+C:\dev\UDEMy\app\src\StoreOfBuild\bin\Debug\netstandard2.1\StoreOfBuild.Domain.deps.json
+C:\dev\UDEMy\app\src\StoreOfBuild\bin\Debug\netstandard2.1\StoreOfBuild.Domain.dll
+C:\dev\UDEMy\app\src\StoreOfBuild\bin\Debug\netstandard2.1\StoreOfBuild.Domain.pdb
+C:\dev\UDEMy\app\src\StoreOfBuild\obj\Debug\netstandard2.1\StoreOfBuild.Domain.dll
+C:\dev\UDEMy\app\src\StoreOfBuild\obj\Debug\netstandard2.1\StoreOfBuild.Domain.pdb
+C:\dev\udemy\app\src\StoreOfBuild\obj\Debug\netstandard2.1\StoreOfBuild.Domain.csprojAssemblyReference.cache
