@@ -1,0 +1,14 @@
+C:\dev\UDEMy\app\src\Store.DI\obj\Debug\netstandard2.1\Store.DI.csprojAssemblyReference.cache
+C:\dev\UDEMy\app\src\Store.DI\obj\Debug\netstandard2.1\Store.DI.AssemblyInfoInputs.cache
+C:\dev\UDEMy\app\src\Store.DI\obj\Debug\netstandard2.1\Store.DI.AssemblyInfo.cs
+C:\dev\UDEMy\app\src\Store.DI\obj\Debug\netstandard2.1\Store.DI.csproj.CoreCompileInputs.cache
+C:\dev\UDEMy\app\src\Store.DI\bin\Debug\netstandard2.1\Store.DI.deps.json
+C:\dev\UDEMy\app\src\Store.DI\bin\Debug\netstandard2.1\Store.DI.dll
+C:\dev\UDEMy\app\src\Store.DI\bin\Debug\netstandard2.1\Store.DI.pdb
+C:\dev\UDEMy\app\src\Store.DI\bin\Debug\netstandard2.1\Store.Data.dll
+C:\dev\UDEMy\app\src\Store.DI\bin\Debug\netstandard2.1\Store.Domain.dll
+C:\dev\UDEMy\app\src\Store.DI\bin\Debug\netstandard2.1\Store.Data.pdb
+C:\dev\UDEMy\app\src\Store.DI\bin\Debug\netstandard2.1\Store.Domain.pdb
+C:\dev\UDEMy\app\src\Store.DI\obj\Debug\netstandard2.1\Store.DI.csproj.CopyComplete
+C:\dev\UDEMy\app\src\Store.DI\obj\Debug\netstandard2.1\Store.DI.dll
+C:\dev\UDEMy\app\src\Store.DI\obj\Debug\netstandard2.1\Store.DI.pdb

@@ -1,0 +1,9 @@
+C:\dev\UDEMy\app\src\Store.DI\bin\Debug\netstandard2.0\Store.DI.deps.json
+C:\dev\UDEMy\app\src\Store.DI\bin\Debug\netstandard2.0\Store.DI.dll
+C:\dev\UDEMy\app\src\Store.DI\bin\Debug\netstandard2.0\Store.DI.pdb
+C:\dev\UDEMy\app\src\Store.DI\obj\Debug\netstandard2.0\Store.DI.csprojAssemblyReference.cache
+C:\dev\UDEMy\app\src\Store.DI\obj\Debug\netstandard2.0\Store.DI.AssemblyInfoInputs.cache
+C:\dev\UDEMy\app\src\Store.DI\obj\Debug\netstandard2.0\Store.DI.AssemblyInfo.cs
+C:\dev\UDEMy\app\src\Store.DI\obj\Debug\netstandard2.0\Store.DI.csproj.CoreCompileInputs.cache
+C:\dev\UDEMy\app\src\Store.DI\obj\Debug\netstandard2.0\Store.DI.dll
+C:\dev\UDEMy\app\src\Store.DI\obj\Debug\netstandard2.0\Store.DI.pdb
